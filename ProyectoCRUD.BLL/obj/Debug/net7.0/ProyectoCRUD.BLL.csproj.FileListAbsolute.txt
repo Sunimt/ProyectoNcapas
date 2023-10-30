@@ -1,0 +1,14 @@
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\bin\Debug\net7.0\ProyectoCRUD.BLL.deps.json
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\bin\Debug\net7.0\ProyectoCRUD.BLL.runtimeconfig.json
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\bin\Debug\net7.0\ProyectoCRUD.BLL.dll
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\bin\Debug\net7.0\ProyectoCRUD.BLL.pdb
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\ProyectoCRUD.BLL.csproj.AssemblyReference.cache
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\ProyectoCRUD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\ProyectoCRUD.BLL.AssemblyInfoInputs.cache
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\ProyectoCRUD.BLL.AssemblyInfo.cs
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\ProyectoCRUD.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\ProyectoCRUD.BLL.dll
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\refint\ProyectoCRUD.BLL.dll
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\ProyectoCRUD.BLL.pdb
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\ProyectoCRUD.BLL.genruntimeconfig.cache
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.BLL\obj\Debug\net7.0\ref\ProyectoCRUD.BLL.dll

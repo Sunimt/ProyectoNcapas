@@ -1,0 +1,14 @@
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\bin\Debug\net7.0\ProyectoCRUD.DAL.deps.json
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\bin\Debug\net7.0\ProyectoCRUD.DAL.runtimeconfig.json
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\bin\Debug\net7.0\ProyectoCRUD.DAL.dll
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\bin\Debug\net7.0\ProyectoCRUD.DAL.pdb
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\ProyectoCRUD.DAL.csproj.AssemblyReference.cache
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\ProyectoCRUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\ProyectoCRUD.DAL.AssemblyInfoInputs.cache
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\ProyectoCRUD.DAL.AssemblyInfo.cs
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\ProyectoCRUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\ProyectoCRUD.DAL.dll
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\refint\ProyectoCRUD.DAL.dll
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\ProyectoCRUD.DAL.pdb
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\ProyectoCRUD.DAL.genruntimeconfig.cache
+C:\Users\cisco01\source\repos\PracticaNcapas\ProyectoCRUD.DAL\obj\Debug\net7.0\ref\ProyectoCRUD.DAL.dll
